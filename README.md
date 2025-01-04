@@ -15,4 +15,4 @@
 1. [Proyecto 1](https://galeria-react-juan.up.railway.app/) - React Galery.
 
 ### 🌐 Encuéntrame en:
-- [LinkedIn](https://linkedin.com/in/tu-perfil)
+- [LinkedIn](https://linkedin.com/in/juan-quiroz-b11732229)
